@@ -1,0 +1,4 @@
+Le nom saisi est : oui
+Le prenom saisi est : oui
+L'age saisi est : 12
+Le numero de telephone saisi est : oui
